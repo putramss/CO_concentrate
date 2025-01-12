@@ -1,4 +1,4 @@
-Timestamp,Temperature (°C),Humidity (%),Wind Speed (m/s),Weather Code,"Weather Description_Mainly clear, partly cloudy, and overcast","Weather Description_Rain showers: Slight, moderate, and violent",Weather Description_Thunderstorm with slight and heavy hail,Weather Description_Thunderstorm: Slight or moderate,CO_Concentration (ppm),Predicted_CO_Concentration (ppm)
+"Timestamp,Temperature (°C),Humidity (%),Wind Speed (m/s),Weather Code,""Weather Description_Mainly clear, partly cloudy, and overcast"",""Weather Description_Rain showers: Slight, moderate, and violent"",Weather Description_Thunderstorm with slight and heavy hail,Weather Description_Thunderstorm: Slight or moderate,Predicted_CO"
 2024-12-01 08:00:46,29.143064653944744,74.99544289376246,5.054286528054686,3.0,0.0,0.0,0.0,0.0,,596.3428441776567
 2024-12-01 08:06:33,29.14192537738536,75.00085445741954,5.052321275989747,3.0,0.0,0.0,0.0,0.0,,596.3402723074104
 2024-12-01 08:12:00,29.140786100825977,75.00626602107661,5.050356023924808,3.0,0.0,0.0,0.0,0.0,,596.337700437164
